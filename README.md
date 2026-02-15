@@ -4,7 +4,8 @@
 
   <br/><br/>
 
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ¡Hola! Soy Cristopher Valle
+  # <![Uploading image.png…]()
+> ¡Hola! Soy Cristopher Valle
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&background=00000000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Aspiring+Full+Stack+Developer;IoT+%26+Automation+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
