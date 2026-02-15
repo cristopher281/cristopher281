@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Image with constrained max-width/height to avoid being "too big" -->
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Header Image" width="800" height="250" style="object-fit: cover; border-radius: 15px;" />
+  <img src="https://github.com/cristopher281/cristopher281/blob/main/Captura%20de%20pantalla%202026-02-15%20120137.png;" />
 
   <br/><br/>
 
